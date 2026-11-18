@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart QR</string>
+    <string name="error_title">페이지를 불러올 수 없습니다</string>
+    <string name="error_message">인터넷 연결을 확인한 후 다시 시도해 주세요.</string>
+    <string name="retry_button">다시 시도</string>
+    <string name="qr_saved_message">QR 코드가 갤러리에 저장되었습니다.</string>
+    <string name="qr_save_failed_message">QR 코드를 저장하지 못했습니다.</string>
+    <string name="download_started_message">다운로드를 시작합니다.</string>
+    <string name="exit_confirm_message">뒤로 버튼을 한 번 더 누르면 종료됩니다.</string>
+</resources>

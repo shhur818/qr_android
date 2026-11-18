@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SmartQR" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_violet</item>
+        <item name="colorPrimaryDark">@color/brand_violet</item>
+        <item name="colorAccent">@color/brand_pink</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

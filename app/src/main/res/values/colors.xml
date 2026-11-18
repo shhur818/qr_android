@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_violet">#8B5CF6</color>
+    <color name="brand_pink">#EC4899</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_muted">#64748B</color>
+    <color name="white">#FFFFFF</color>
+</resources>
